@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-![AirBnB logo](https://www.pngitem.com/middle/wwiwRT_transparent-background-airbnb-logo-hd-png-download/)
+![AirBnB logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
 ## Project Descriptions
 This is the first step towards building our first full web application AirBnB clone
